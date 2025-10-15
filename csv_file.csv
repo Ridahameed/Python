@@ -1,0 +1,4 @@
+account_type,Owner,account_no,balance,interest_rate,loan_limit,fees
+SavingAccount,Ali,S-123,1000,0.05,,
+SavingAccount,Ahmed,S-456,2000,0.03,,
+CurrentAccount,Fatima,C-321,5000,,1000,200
